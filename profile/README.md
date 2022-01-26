@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to the Github Org for UCSD Bioinformatics!
 
 This organization serves as a hub for documentation, code, and other materials to support bioinformatics best practices at UCSD and the wider community.
 
