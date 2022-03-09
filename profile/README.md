@@ -9,7 +9,7 @@ With these materials, we hope the organization will support computational biolog
 
 <!-- TODO: a list of things in this org -->
 
-| :exclamation:  <ins>Note</ins>: This is an _unofficial_ resource managed by students in the BISB/BMI program, distinct from [the official BISB website](https://bioinformatics.ucsd.edu/). |
+| :exclamation:  <ins>Note</ins>: This is an _unofficial_ resource managed by students in the BISB/BMI program, distinct from [the official BISB/BMI website](https://bioinformatics.ucsd.edu/). |
 |-----------------------------------------|
 
 <!--
