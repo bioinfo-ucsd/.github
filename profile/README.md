@@ -1,4 +1,4 @@
-## Welcome to the Github Org for Bioinformatics at UC San Diego!
+## Welcome to Bioinformatics at UC San Diego!
 
 Created by students of the [UCSD Bioinformatics and Systems Biology / Biomedical Informatics (BISB/BMI) PhD program](https://bioinformatics.ucsd.edu/), this organization serves as a place where students and faculty of the BISB/BMI program can collaborate and develop ...
 
