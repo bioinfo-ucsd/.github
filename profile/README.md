@@ -10,7 +10,8 @@ With these materials, we hope the organization will support bioinformatics and c
 
 Here's how to get started:
 
-1. 🌈 Please abide by our [community code of conduct](../CODE_OF_CONDUCT.md)
+1. 👩‍💻 Take a look at our [contribution guidelines](../CONTRIBUTING.md)
+2. 🌈 Please abide by our [community code of conduct](../CODE_OF_CONDUCT.md)
 <!-- TODO: add contribution guidelines here this org -->
 
 
