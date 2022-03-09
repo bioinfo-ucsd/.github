@@ -4,7 +4,7 @@ Created by students of the [UCSD Bioinformatics and Systems Biology / Biomedical
 
 1. program resources to support students' advancement towards their degrees
 2. materials for events, teaching, and outreach initiatives
-3. guidelines and tutorials for comptutional biology and bioinformatics workflows (we welcome contributions from *anybody* via pull request!)
+3. guidelines and tutorials for bioinformatics and computational biology workflows (we welcome contributions from *anybody* via pull request!)
 
 With these materials, we hope the organization will support bioinformatics and computational biology at UC San Diego and the wider community.
 
